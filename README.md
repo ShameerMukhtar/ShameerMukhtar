@@ -1,6 +1,22 @@
 <h1 align="center">Hi , I'm Shameer </h1>
 
 <h4 align="center">A Mern Stack Developer</h4>
+<p align="left">
+I’m a Backend Team Lead & Full-Stack Engineer with hands-on experience building scalable, secure, and high-performance systems across Fintech, EdTech, and Web3. While my core expertise lies in architecting robust backends, I am equally proficient in building dynamic, responsive frontends using React.js and managing the full application lifecycle via cloud infrastructure.
+
+Technical Core & Leadership
+Backend & Architecture: Specialized in Node.js, NestJS, and Microservices. I lead the development of production-ready features like RBAC, payment gateways, and high-throughput data pipelines.
+
+Frontend Integration: Skilled in React.js to build seamless, end-to-end user experiences, ensuring the frontend is as performant and scalable as the API powering it.
+
+Database Management: Expert in database design using PostgreSQL, MongoDB, and Redis. I have extensive experience configuring and optimizing AWS RDS for mission-critical relational data.
+
+Cloud & Deployment: Experienced in deploying and scaling applications across AWS, GCP, and DigitalOcean, utilizing modern CI/CD practices to ensure high availability and reliability.
+
+My Approach
+I focus on solving real-world problems using clean, maintainable code. Whether it’s API optimization, asynchronous job handling, or fine-tuning cloud infrastructure, I build with an "impact-first" mindset. I’m passionate about scaling backend infrastructures and contributing to products that move the needle.
+
+</p>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"> -->
 <h3 align="left">About me:</h3>
