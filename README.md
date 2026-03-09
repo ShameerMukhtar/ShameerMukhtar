@@ -1,6 +1,7 @@
 <h1 align="center">Hi , I'm Shameer </h1>
 
-<h4 align="center">A Mern Stack Developer</h4>
+<!-- <h4 align="center">A Mern Stack Developer</h4> -->
+<h3 align="left">About me:</h3>
 <p align="left">
 I’m a Backend Team Lead & Full-Stack Engineer with hands-on experience building scalable, secure, and high-performance systems across Fintech, EdTech, and Web3. While my core expertise lies in architecting robust backends, I am equally proficient in building dynamic, responsive frontends using React.js and managing the full application lifecycle via cloud infrastructure.
 
@@ -19,7 +20,6 @@ I focus on solving real-world problems using clean, maintainable code. Whether i
 </p>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"> -->
-<h3 align="left">About me:</h3>
 
 
 
