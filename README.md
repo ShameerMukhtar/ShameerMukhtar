@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Shahmeer </h1>
+<h1 align="center">Hi , I'm Shameer </h1>
 
 <!-- <h4 align="center">A Mern Stack Developer</h4> -->
 <h3 align="left">About me:</h3>
